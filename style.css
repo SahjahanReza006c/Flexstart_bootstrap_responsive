@@ -1,0 +1,17 @@
+.image {
+  background-image: url("./assets/img/hero-bg.png");
+  height: 600px;
+  width: 1200px;
+}
+.image .head h1 {
+  color: #012970;
+  font-size: 58px;
+  font-weight: 700;
+  line-height: 66px;
+  font-family: "Nunito", sans-serif;
+}
+
+.rightimg img {
+  margin-left: 100px;
+  margin-top: 50px;
+}/*# sourceMappingURL=style.css.map */
